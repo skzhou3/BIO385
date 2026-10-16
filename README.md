@@ -1,7 +1,8 @@
-_**<u>BIO 385 Group Proposal</u>**_
+_**BIO 385 Group Proposal**_
 
 
-- Hi github!!!!
+Hi guys, if you look above, you will see GitHub Sync. So basically, when you are finished with something in the document, you can click the button and push this doc to GitHub, where it will appear!
+
 
 [<u>https://github.com/skzhou3/BIO385/invitations</u>](https://github.com/skzhou3/BIO385/invitations) 
 
