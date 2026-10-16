@@ -1,12 +1,18 @@
-BIO 385 Group Proposal
+**BIO 385 Group Proposal**
 
-Hi github!!!!
 
-https://github.com/skzhou3/BIO385/invitations 
+- Hi github!!!!
+
+[<u>https://github.com/skzhou3/BIO385/invitations</u>](https://github.com/skzhou3/BIO385/invitations) 
+
 Lit
-https://pmc.ncbi.nlm.nih.gov/articles/PMC5764318/ 
+
+[<u>https://pmc.ncbi.nlm.nih.gov/articles/PMC5764318/</u>](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764318/) 
+
 
 
 
 Ig we can create a mixed model with and without light pollution 
-https://www.cleardarksky.com/csk/prov/all_charts_map.html light pollution map
+
+[<u>https://www.cleardarksky.com/csk/prov/all_charts_map.html</u>](https://www.cleardarksky.com/csk/prov/all_charts_map.html) light pollution map
+
