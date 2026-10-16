@@ -4,6 +4,8 @@ _**BIO 385 Group Proposal**_
 Hi guys, if you look above, you will see GitHub Sync. So basically, when you are finished with something in the document, you can click the button and push this doc to GitHub, where it will appear!
 
 
+- Test
+
 [<u>https://github.com/skzhou3/BIO385/invitations</u>](https://github.com/skzhou3/BIO385/invitations) 
 
 Lit
