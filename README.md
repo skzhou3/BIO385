@@ -1,4 +1,4 @@
-**BIO 385 Group Proposal**
+_**<u>BIO 385 Group Proposal</u>**_
 
 
 - Hi github!!!!
