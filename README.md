@@ -4,8 +4,6 @@ _**BIO 385 Group Proposal**_
 Hi guys, if you look above, you will see GitHub Sync. So basically, when you are finished with something in the document, you can click the button and push this doc to GitHub, where it will appear!
 
 
-- Test
-
 [<u>https://github.com/skzhou3/BIO385/invitations</u>](https://github.com/skzhou3/BIO385/invitations) 
 
 Lit
@@ -17,4 +15,10 @@ Lit
 Ig we can create a mixed model with and without light pollution 
 
 [<u>https://www.cleardarksky.com/csk/prov/all_charts_map.html</u>](https://www.cleardarksky.com/csk/prov/all_charts_map.html) light pollution map
+
+
+
+We could do your favorite, the fire ants range expansion, well light pollution might also effect them idk
+
+Maybe, what about kudzu, I have never seen it in a city before
 
