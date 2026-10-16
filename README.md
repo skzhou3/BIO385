@@ -11,8 +11,6 @@ Lit
 [<u>https://pmc.ncbi.nlm.nih.gov/articles/PMC5764318/</u>](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764318/) 
 
 
-Test
-
 
 Ig we can create a mixed model with and without light pollution 
 
