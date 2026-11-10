@@ -22,3 +22,16 @@ We could do your favorite, the fire ants range expansion, well light pollution m
 
 Maybe, what about kudzu, I have never seen it in a city before
 
+
+Pseudo absences: addressing in model 
+
+Combining with explanation of lack of occurrences 
+
+Temporal constraints- breeding months
+
+Spatial Clustering - too expansive? 
+
+Forest fragments/ neighborhoods (areas of less light pollution) 
+
+Fewer sites- but sites with consistent effort/ amount of observations (to minimize sampling bias) 
+
